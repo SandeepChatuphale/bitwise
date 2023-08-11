@@ -44,3 +44,8 @@ NOTE : - USE method overriding. (calculateSalary())
 If user doesn’t find then system should throw a customized exception EmployeeNotFoundException.
 
 
+7)	 Upgrade the Employee creation system in such a way that now the system should be able to log messages. Make use of File Handling so that all the Log Records are written in to the LOG file named “ECS.log”
+
+8)	Upgrade the Employee creation system in such a way that – create DAO layer and make use of appropriate Collection Framework.
+
+9)	Create table with appropriate columns in mysql DB.
