@@ -49,3 +49,9 @@ If user doesn’t find then system should throw a customized exception EmployeeN
 8)	Upgrade the Employee creation system in such a way that – create DAO layer and make use of appropriate Collection Framework.
 
 9)	Create table with appropriate columns in mysql DB.
+    
+10) Update the Employee Creation System in such a way that employees can be persisted inside a Relational Database. Create an table with name tbl_emp where all kinds of employees will be persisted. EMP_TYPE column will identify 3 different kinds of employees like
+WE(WageEmployee), M(Manager), SM (SalesManager).
+
+11)	Upgrade the Employee creation system in such a way that – create DAO layer and make use of JDBC and give methods for CRUD Operations.
+
