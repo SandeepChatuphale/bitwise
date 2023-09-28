@@ -28,9 +28,8 @@ rate     ( int )
 
 
 Manager	commision       ( int )
-
-SalesManager	incentives        ( int )
-Salary formula :-
+SalesManager	incentives   ( int )
+**Salary formula :-**
 WageEmployee : - basicSalary + hours*rate
 Manager: - basicSalary + commission;
 SalesManager: basicSalary + commission + incentives
